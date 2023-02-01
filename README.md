@@ -12,7 +12,6 @@ Comandos:
 
 > mkdir libs 
 > cp -R myproject/lib/* libs  
-> 
 > git clone https://github.com/medeirosramos/make-pom.git  
 > chmod +x make-pom/make-pom.sh  
 > make-pom/make-pom.sh libs  
