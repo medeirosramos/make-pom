@@ -22,7 +22,7 @@ Para verificação manual, exemplo:
 > unzip jsf-impl.jar  
 > nano META-INF/MANIFEST.MF  
 
-No final do arquivo é possível ver a versão:
+No final do arquivo é possível ver a versão:  
 Bundle-Version: 1.2.15
 Bundle-Description: Mojarra JSF Implementation (javax.faces/1.2MR2) 1.
 2_15-b01-FCS
